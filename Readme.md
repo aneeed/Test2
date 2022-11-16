@@ -1,6 +1,6 @@
 #Test2
 ## Android布局实验——线性布局
-![image]https://github.com/aneeed/Test2/blob/master/img/2-1.png)
+![image](https://github.com/aneeed/Test2/blob/master/img/2-1.png)
 ##用LinearLayout来实现线性布局
 ![image](https://github.com/aneeed/Test2/blob/master/img/2-1code.png)
 ## Android布局实验——表格布局
